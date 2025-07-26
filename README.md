@@ -13,6 +13,6 @@ This repository contains the deployment logic and scripts for deploying a Java S
 Run the following command from the `tech_eazy_devops` directory:
 
 ```bash
-./deploy.sh dev https://github.com/your-username/your-app-repo.git
-# for prod
-./deploy.sh prod https://github.com/your-username/your-app-repo.git
+./deploy.sh dev https://github.com/siddhantpatil28/test-repo-for-devops.git
+#for prod
+./deploy.sh prod https://github.com/siddhantpatil28/test-repo-for-devops.git
